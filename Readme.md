@@ -19,7 +19,7 @@ The list of required packages:
         scipy==1.9.3
         seaborn==0.12.2
         numpy==1.23.3
-## 1. MM dataset
+## 1. MM feature dataset
 Dataset of the MM features collected from the material collection can be found in the folder *Dataset_MM_features*.
 
 To plot the MM features (as shown in Fig. 7 of the paper), please implement the following commond.
@@ -42,6 +42,12 @@ The evaluation framework
         
         10-fold cross-validation
 
+Three evaluation metrics
+
+        1. F1 score
+        2. Kuncheva's stability index
+        3. Selection probability
+
 Options of modality combinations
 
         1. DoLP
@@ -56,19 +62,13 @@ Options of modality combinations
         d: Distance
         DoLP: Degree of linear polarization
 
-Three evaluation metrics
-
-        1. F1 score
-        2. Kuncheva's stability index
-        3. Selection probability
-
  Target number of selected spectral channels (feature groups)
         
          1 --> 28 
 ### Example command -- Evaluate the feature selection algorithms for arbitrary modality combinations and save the evaluation metrics
 Different modality combinations can be set in the file *Evaluation_feature_selection_methods.py*.
 
-The corresponding evaluation metrics can be output by running the evaluation framework by implementing the following command.
+The corresponding evaluation metrics can be output by implementing the following command to run the evaluation framework.
 
         python Evaluation_feature_selection_methods.py
 
@@ -90,4 +90,5 @@ To plot the evaluation metrics (as shown in the Figs. 8-10 of the paper), please
 
 ## * Citation
 
+If you find our dataset and/or code useful, we appreciate your consideration in citing our publication.
 
