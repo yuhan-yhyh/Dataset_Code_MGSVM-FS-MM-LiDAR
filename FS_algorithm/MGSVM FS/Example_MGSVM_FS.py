@@ -363,7 +363,7 @@ Nr_FG_target = Nr_WL_target
 
 """ ----- 3.1.2 Set the searching range "C_vec" for the penalty parameter "C" ----- """
 
-''' Note: The speed of the MGSVM FS depends on the range and step size of the vector "C", 
+''' Note: The speed of the MGSVM FS depends on the range and step size of the vector "C_vec", 
 the data (X,y) and the target number of selected grouped features. '''
 ### Example "C_vec"
 C_vec = np.logspace(-2.5, 2, num=30)
