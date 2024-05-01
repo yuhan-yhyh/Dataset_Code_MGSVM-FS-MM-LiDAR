@@ -24,7 +24,7 @@ Tackle the group feature selection problem for multicalss classification tasks.
 ### Input dataset
 The MM features of four material classes for the modality combination R+d+DoLP with labels of material class. 
 
-### Target to select three spectral channels (feature groups)
+### Target at selecting three spectral channels (feature groups)
 Nr_WL_target = 3     
 Nr_FG_target = Nr_WL_target
 ### The map of absolute values foa all ceofficients corresponding to different features
