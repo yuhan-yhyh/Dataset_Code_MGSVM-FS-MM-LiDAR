@@ -1,4 +1,4 @@
-# Goal: This script is to implement the feature selection for the classification among four material classes: concrete, plastic, stone, and wood.
+""" Goal: This script is to implement the MGSVM FS algorithm to select a defined number of features and map the absolute values of coefficients"""
 
 """ ********************************************   1. Import packages   ******************************************** """
 import time

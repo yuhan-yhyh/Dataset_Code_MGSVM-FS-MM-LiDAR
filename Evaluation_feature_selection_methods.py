@@ -1,4 +1,9 @@
-# Goal: This script is to implement the feature selection for the classification among four material classes: concrete, plastic, stone, and wood.
+""" Goal: This script is to evaluate different feature selection algorithms
+in a ten-fold cross-validation by outputting three evaluation metrics:
+1) F1 score
+2) Stability index
+3) Selection probability"""
+
 
 """ ********************************************   1. Import packages   ******************************************** """
 import time
