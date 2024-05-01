@@ -1,6 +1,16 @@
-# MGSVM feature selection algorithm
-## Function
-Tackle the group feature selection problem for multicalss classification tasks
+# MGSVM FS 
+Multiclass group feature selection algorithm based on an all-in-one support vector machine
+
+**Function**: 
+
+Tackle the group feature selection problem for multicalss classification tasks.
+
+**Characteristics**: 
+* Embedded feature selection
+* Group feature selection / Group LASSO for structured data / Structural sparsity
+* Multiclass classification / All-in-one SVM
+
+
 ## Usage
 1. Input your own dataset **(X,y)**
 2. Set the target number of feature groups that you want select **Nr_FG_target**

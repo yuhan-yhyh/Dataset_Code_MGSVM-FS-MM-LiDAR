@@ -32,7 +32,7 @@ Figure: 30 material specimens -->
 ## 2. Feature selection algorithm: MGSVM FS
 Multiclass group feature selection algorithm based on an all-in-one support vector machine
 * Embedded feature selection
-* Group feature selection / Group LASSO for structured data
+* Group feature selection / Group LASSO for structured data / Structural sparsity
 * Multiclass classification / All-in-one SVM
 ### Example command -- Plot the selected features output from MGSVM FS
 Please refer to the subfolder *FS_algorithm\MGSVM FS*.
