@@ -29,7 +29,7 @@ Nr_WL_target = 3
 Nr_FG_target = Nr_WL_target
 ### The map of absolute values for all ceofficients corresponding to different features
 ![alt text](Fig_Abs_Coeff__R+d+DoLP_SC2_Nr_SCs_3.png)
-Absolute values of the coefficients represent the importance of spectral channels, modalities, material classes.
+Absolute values of the coefficients represent the importance of spectral channels and modalities in distinguishing different material classes.
 
 ### The selected spectral channels accroding to the threshold 0.001 of absolute coefficient values
 ![alt text](Fig_Selected_Coeff__R+d+DoLP_SC2_Nr_SCs_3.png)
