@@ -13,7 +13,7 @@ Tackle the feature selection problem for structured data and multiclass classifi
 
 ## Usage
 1. Input your own dataset **(X,y)**
-2. Set the target number **Nr_FG_target** of feature groups that you want select 
+2. Set the target number **Nr_FG_target** of feature groups that you want to select 
 3. Adjust the searching vector **C_vec** for the trade-off parameter **C** to improve the efficiency, if necessary
 4. Implement the following command
 

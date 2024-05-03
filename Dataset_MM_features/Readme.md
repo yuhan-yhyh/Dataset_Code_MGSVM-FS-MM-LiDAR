@@ -5,11 +5,11 @@
 ### WL.csv
 Central wavelengths at 28 spectral channels (SCs) with the unit of nm.
 ### R.csv
-600 reflectance spectra measured at 28 spectral channels on the 30 material specimens (20 measurement per material specimen at different surface positions).
+600 reflectance spectra measured at 28 spectral channels on the 30 material specimens (20 measurements per material specimen at different surface positions).
 ### d.csv
-600 distance spectra measured at 28 spectral channels on the 30 material specimens (20 measurement per material specimen at different surface positions).
+600 distance spectra measured at 28 spectral channels on the 30 material specimens (20 measurements per material specimen at different surface positions).
 ### DoLP.csv
-600 degree of linear polarization spectra measured at 28 spectral channels on the 30 material specimens (20 measurement per material specimen at different surface positions).
+600 degree of linear polarization spectra measured at 28 spectral channels on the 30 material specimens (20 measurements per material specimen at different surface positions).
 
 ![alt text](Fig_1_DataStructure.jpg)
 Figure: Data structure of the MM feature for each measurement with the variable P=28.
