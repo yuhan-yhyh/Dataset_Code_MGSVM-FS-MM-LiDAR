@@ -27,7 +27,7 @@ The MM features of four material classes for the modality combination R+d+DoLP w
 ### Target at selecting three spectral channels (feature groups)
 Nr_WL_target = 3     
 Nr_FG_target = Nr_WL_target
-### The map of absolute values foa all ceofficients corresponding to different features
+### The map of absolute values for all ceofficients corresponding to different features
 ![alt text](Fig_Abs_Coeff__R+d+DoLP_SC2_Nr_SCs_3.png)
 Absolute values of the coefficients represent the importance of spectral channels, modalities, material classes.
 
