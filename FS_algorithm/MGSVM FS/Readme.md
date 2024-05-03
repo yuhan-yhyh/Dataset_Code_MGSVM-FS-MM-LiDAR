@@ -3,7 +3,7 @@ Multiclass group feature selection algorithm based on an all-in-one support vect
 
 **Function**: 
 
-Tackle the group feature selection problem for multicalss classification tasks.
+Tackle the feature selection problem for structured data and multicalss classification tasks.
 
 **Characteristics**: 
 * Embedded feature selection
