@@ -92,3 +92,13 @@ To plot the evaluation metrics (as shown in the Figs. 8-10 of the paper), please
 
 If you find our dataset and/or code useful, we appreciate your consideration in citing our publication.
 
+        @article{HAN202442,
+        title = {A feature selection method for multimodal multispectral LiDAR sensing},
+        journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
+        volume = {212},
+        pages = {42-57},
+        year = {2024},
+        issn = {0924-2716},
+        doi = {https://doi.org/10.1016/j.isprsjprs.2024.04.022},
+        author = {Yu Han and David Salido-Monzú and Jemil Avers Butt and Sebastian Schweizer and Andreas Wieser}
+        }
