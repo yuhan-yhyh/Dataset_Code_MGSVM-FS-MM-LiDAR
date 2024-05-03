@@ -13,8 +13,8 @@ Tackle the feature selection problem for structured data and multicalss classifi
 
 ## Usage
 1. Input your own dataset **(X,y)**
-2. Set the target number of feature groups that you want select **Nr_FG_target**
-3. Adjust the searching vector **C_vec** for the trade-off penalty parameter **C** to improve the efficiency, if necessary
+2. Set the target number **Nr_FG_target** of feature groups that you want select 
+3. Adjust the searching vector **C_vec** for the trade-off parameter **C** to improve the efficiency, if necessary
 4. Implement the following command
 
         python Example_MGSVM_FS.py
