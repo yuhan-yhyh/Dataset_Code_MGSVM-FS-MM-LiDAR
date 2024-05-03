@@ -1,4 +1,4 @@
-# Dataset of the multimodal multispectral features collected from 30 material spamples in 4 material classes
+# Dataset of the multimodal multispectral features collected from 30 material samples in 4 material classes
 
 
 ## Files
@@ -12,9 +12,9 @@ Central wavelengths at 28 spectral channels (SCs) with the unit of nm.
 600 degree of linear polarization spectra measured at 28 spectral channels on the 30 material specimens (20 measurement per material specimen at different surface positions).
 
 ![alt text](Fig_1_DataStructure.jpg)
-Figre: Data structure of the MM feature for each measurement with the variable P=28.
+Figure: Data structure of the MM feature for each measurement with the variable P=28.
 
-## Lables
+## Labels
 ### Material class
 **1** : Concrete (C)  
 **2** : Plastic (P)   
@@ -31,7 +31,7 @@ Figre: Data structure of the MM feature for each measurement with the variable P
 **41** : Spruce (Ws)   
 **42** : Beech (Wb)   
 **43** : Fir (Wf)  
-### Material sspecimens
+### Material specimens
 **XXa** : Specimen **a** for the material subclass **XX**  
 **XXb** : Specimen **b** for the material subclass **XX**   
 **XXv** : Specimen **c** for the material subclass **XX** 

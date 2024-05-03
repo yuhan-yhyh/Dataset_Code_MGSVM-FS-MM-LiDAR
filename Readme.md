@@ -20,9 +20,9 @@ The list of required packages:
         seaborn==0.12.2
         numpy==1.23.3
 ## 1. MM feature dataset
-Dataset of the MM features collected from the material collection can be found in the folder *Dataset_MM_features*.
+The dataset of the MM features collected from the material collection can be found in the folder *Dataset_MM_features*.
 
-To plot the MM features (as shown in Fig. 7 of the paper), please implement the following commond.
+To plot the MM features (as shown in Fig. 7 of the paper), please implement the following command.
 
         python MM_features_plotting.py
         
@@ -34,7 +34,7 @@ Multiclass group feature selection algorithm based on an all-in-one support vect
 * Embedded feature selection
 * Group feature selection / Group LASSO for structured data / Structural sparsity
 * Multiclass classification / All-in-one SVM
-### Example command -- Plot the selected features output from MGSVM FS
+### Example command -- Plot the output of selected features from MGSVM FS
 Please refer to the subfolder *FS_algorithm\MGSVM FS*.
 
 ## 3. Evaluation framework and metrics
@@ -83,7 +83,7 @@ Four feature selection algorithms
 ### Example command -- Plot the final evaluation metrics 
 All evaluation metrics for all modality combinations can be found in the subfolder *Results_evaluation_metrics*.
 
-To plot the evaluation metrics (as shown in the Figs. 8-10 of the paper), please implement the following commond.
+To plot the evaluation metrics (as shown in Figs. 8-10 of the paper), please implement the following command.
 
         python Evaluation_metrics_plotting.py
     
